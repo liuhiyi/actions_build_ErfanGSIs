@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18/9.2.5.2/cn/20211215151006/1b258b36/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/V12.5.12.0.RKMCNXM/miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+  ROM_NAME: MIUIMIUIMIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
